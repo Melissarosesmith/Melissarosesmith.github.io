@@ -1,1 +1,2 @@
-This is Melissa's ePortfolio
+# Welcome to Melissa Smith's ePortfolio
+
