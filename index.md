@@ -10,7 +10,8 @@
 ## Code Review
 ### The following code review explains the original artifacts existing functionality, code analysis, and walks through the planned enhancements relating to Software Design and Engineering, Algorithms and Data Structure, and Databases. Please click [here](https://youtu.be/JytkHKX6oUc) to be redirected to YouTube for my Code Review.
 
-## Software Design and Engineering
+<img src="Images/Artifact1-Image.jpg" title="Software Design and Engineering" />
+
 
 
 
