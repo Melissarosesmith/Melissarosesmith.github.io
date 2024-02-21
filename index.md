@@ -45,6 +45,7 @@ else:
 * The use of O(1) operations for key checks in dictionaries and length checks in the inventory contributes to the efficiency of the code.
 ### **Course Outcome 5:**
 ### **The skills for this artifact develops a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.** The enhancements implement input validation to ensure that users can't exploit the game by providing invalid input. This aligns with the goal of ensuring the security of the game's logic and preventing unintended behaviors. It shows a general awareness of user input validation in the ‘get_item_input’ and ‘move_rooms’ functions, preventing potential exploits through validation checks. This aligns with the development of a security mindset.
+### Please visit [Artifact Two](https://github.com/Melissarosesmith/Melissarosesmith.github.io/blob/b85a750e8c3b40afef748d61e4111574a87af836/Enhanced%20Artifacts/TextBasedGame-AlgorithmsDataStructures-Enhanced-Artifact2-MelissaSmithpy.py) if you would like to see the enhanced code for the Algorithms and Data Structure artifact.
 
 
 
