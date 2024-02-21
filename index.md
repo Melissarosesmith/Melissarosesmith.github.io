@@ -10,7 +10,7 @@
 ## Code Review
 ### The following code review explains the original artifacts existing functionality, code analysis, and walks through the planned enhancements relating to Software Design and Engineering, Algorithms and Data Structure, and Databases. Please click [here](https://youtu.be/JytkHKX6oUc) to be redirected to YouTube for my Code Review.
 
-<img id="Artifact1" src="Images/MapOfRooms.png" />
+<img id="Artifact1" src="Images/Artifact1.jpg" />
 ## Software Design and Engineering
 ### As stated in the introduction, the original artifact is a text-based adventure game implemented in the Python programming language. The project was initially created during one of my first Computer Science courses, IT-140. It was meant to demonstrate my understanding of the Python language and software development principles.
 ### I am including this artifact in my ePortfolio because it effectively showcases my skills in object-oriented programming, algorithm design, and user input handling. The project involved the creation of a complex game structure, requiring the implementation of data structures to manage the game state. The decision-making logic and user interaction components demonstrate my ability to design user-friendly interfaces and handle diverse user inputs. Additionally, the inclusion of advanced features, such as inventory management and room transitions, highlights my problem-solving skills in a challenging programming environment. Overall, this artifact serves as a comprehensive representation of my technical competencies in software development, particularly in C++.
